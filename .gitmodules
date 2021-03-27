@@ -1,0 +1,3 @@
+[submodule "not_our_ref_submodule"]
+	path = not_our_ref_submodule
+	url = https://github.com/stephenkingston/not_our_ref_submodule
